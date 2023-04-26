@@ -13,5 +13,8 @@ public class AtmProject {
 
         System.out.println("bir kisim kodlar");
         //fth2
+
+        System.out.println();
+        //fth3
     }
 }
