@@ -10,5 +10,8 @@ public class AtmProject {
         //version4
         System.out.println("fatih branchi kodlarini yazdi.");
         //versionfth1
+
+        System.out.println("bir kisim kodlar");
+        //fth2
     }
 }
