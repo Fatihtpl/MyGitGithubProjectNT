@@ -18,5 +18,6 @@ public class AtmProject {
         //fth3
         System.out.println();
         //localde degisiklik yaptim.
+        //remoteda degisiklik yaptim.
     }
 }
